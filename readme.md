@@ -2,6 +2,10 @@
 
 Game to beat the clock by typing random words
 
+## Demo
+
+https://tinasay.github.io/typing-game/
+
 ## Project Specifications
 
 - Create game UI including a difficuly setting
